@@ -43,13 +43,13 @@ textarea {
 }
 
 .past {
-  background-color: #e1dede;
+  background-color: #b7b4b4;
   color: white;
 }
 
 .present {
   background-color: #f9e6a6;
-  color: white;
+  color: #030000ff;
 }
 
 .future {
