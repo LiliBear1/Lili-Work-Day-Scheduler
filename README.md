@@ -17,7 +17,7 @@ Using my JQuery skills and incorporating Moment.js, I have created a simple work
 
 * [Deployed Page Link](https://lilibear1.github.io/Work-Day-Scheduler/)
 
-* [Git Page Link](https://github.com/LiliBear1/wk6-webAPI-quiz) 
+* [Git Page Link](https://github.com/LiliBear1/Work-Day-Scheduler) 
 
 
 ## Process
